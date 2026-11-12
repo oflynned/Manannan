@@ -270,7 +270,7 @@ agus gach aon lámh aca seasca troigh ar faid. Bhí méireanna
 ar na lámha agus gach aon mhéar suas le sé troighthe ar
 faid, agus iad láidir téagartha d’á réir.
 
-“Heló, heló, heló,” arsa Séan. “Cá bhfuairis ‘Lugh
+“Heló, heló, heló,” arsa Séan. “Cá bhfuairis ‘Lugh
 Lámh-fhada?’”
 
 “Róbot atá ann,” arsa Máirtín. “Tá fir oibre
@@ -332,13 +332,13 @@ bhaisteadh,” arsa Seán, “fé mar a baisttear na línéirí
 móra sul a seoltar ar an bhfhairrgé iad.”
 
 “Tá buidéal uisce thall annsan,” arsa Máirtín.
--
+
 “Déanfaidh sin an gnó go breágh,” arsa Seán.
 
 Rug sé ar an mbuidéal agus do bhris i gcoinnibh an
 fhalla é.
 
-“Baistim ‘Lugh Lámh-fhada’ mar ainm ort,” ar
+“Baistim ‘Lugh Lámh-fhada’ mar ainm ort,” ar
 seisean.
 
 “Hurá,” arsa Brian agus Nící d’aon ghuth.
@@ -466,7 +466,7 @@ do chas géag eile timcheall ar an gcois.
 deallramh aige leis na Cráidhmí a chonnac-sa an oidhche
 eile.”
 
-“Ní Cráidhmí é sin,” arsa Nící, “ac árrachtach ocht-
+“Ní Cráidhmí é sin,” arsa Nící, “ach árrachtach ocht-
 gcosach.”
 
 “Pé rud é,” arsa Máirtín, “caithfimíd a ghreim a

@@ -372,8 +372,8 @@ mar a ḃíoḋ i lár an lae. Ċuir Nící liúġ as le háṫas.
 
 “An aiṫniġeann tú an áit seo?” ar seisean.
 
-“Aiṫniġim,” arsa Brian. “San aḃainn seo a niġ-
-eamar sinn féin an lá a ṫángamar.”
+“Aiṫniġim,” arsa Brian. “San aḃainn seo a niġeamar
+sinn féin an lá a ṫángamar.”
 
 “Tá an ceart agat,” arsa Nící. “Nílimíd aċ míle
 sliġe ó’n gcatair.”
@@ -388,7 +388,7 @@ ráṁa.”
 
 “Cá ḃfuil Ciarraiġe?” arsa Nící.
 
-“I nÉirinn,” arsa Brian, agus nil áit ar doṁan
+“I nÉirinn,” arsa Brian, agus nil áit ar doṁan
 
 [l.135]: #
 is deise ná í. I gCiarraiġe a ċaiṫim féin agus Daid

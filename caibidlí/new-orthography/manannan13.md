@@ -28,7 +28,7 @@ arsa an garsún.
 chuige,” arsa Máirtín.
 
 Díreach agus iad suidhte chun dinnéir amáireach a bhí
-chughainn chualadar mar a bheadh adharc á *shéideadh. Do
+chughainn chualadar mar a bheadh adharc á shéideadh. Do
 bhánuigh ar Nící agus do phreab sé ina sheasamh.
 
 [l.152]: #
@@ -39,7 +39,7 @@ go bhfuil an adharc á seideadh ?”
 “Fógra é sin go bhfuil na Cráidhmí chughainn,” arsa
 Nící. “Na daoine a bhíonn ag obair ins na guirt agus ins
 na mianaigh leasmuigh de’n chathair, filleann siad abhaile
-chomh luath agus a chloiseann siad an adharc san á *séideadh.”
+chomh luath agus a chloiseann siad an adharc san á shéideadh.”
 
 “Is fearra dhúinn an róbot a chur i dreo catha,”
 arsa Máirtín, agus thug sé aghaidh ar an ndoras.
@@ -106,8 +106,8 @@ seisean. “Órduightear do lucht an róboit dul ina
 gcoinnibh chomh tapaidh agus is féidir dóibh, agus iad a
 chosc sul a loitfidh siad na barraí.”
 
-“Éist leis sin,” arsa Seán go searbhúsach. “Órduigh-
-tear dúinn dul ina gcoinnibh chomh tapaidh agus tá inár
+“Éist leis sin,” arsa Seán go searbhúsach. “Órduightear
+dúinn dul ina gcoinnibh chomh tapaidh agus tá inár
 gcosaibh. Nách breágh bog a thagann caint chúcha. Ní
 fheicim aon duine aca féin ag gluaiseacht i n-éinfheacht
 linn.”
@@ -324,8 +324,8 @@ iadh ná aon ápaí saoghalta.”
 Bhí na Cráidhmí ag brúghadh ina dtimcheall go tiugh agus
 an róbot á luascadh anonn is anall ar a leath-chois aca.
 
-“Dá mbeadh gunna againn,” arsa Seán, “d’fhéad-
-faimís an ceann san a mharbhú. Ar tugadh aon ghunna dhuit,
+“Dá mbeadh gunna againn,” arsa Seán, “d’fhéadfaimís
+an ceann san a mharbhú. Ar tugadh aon ghunna dhuit,
 A Mháirtín?”
 
 “Níor tugadh,” arsa Máirtín.
@@ -485,7 +485,7 @@ agus thug bronntanaisí luachmhara dhóibh.
 “tar éis a bhfuil curtha dhíbh agaibh, agus is dócha go bhfuil
 fonn oraibh bhúr scíth a leigint i nbhúr dtig féin.”
 
-Do ghabhadar a mbuidheachas leis i dtaobh na mbronn-
-tanas a bhí tugtha aige dhóibh agus chuadar thar n-ais chun
+Do ghabhadar a mbuidheachas leis i dtaobh na mbronntanas
+a bhí tugtha aige dhóibh agus chuadar thar n-ais chun
 a dtighe. féin. Chaitheadar béile bídh annsan agus chuadar a
 chodladh dhóibh féin.

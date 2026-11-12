@@ -28,7 +28,7 @@ arsa an garsún.
 ċuige,” arsa Máirtín.
 
 Díreaċ agus iad suiḋte ċun dinnéir amáireaċ a ḃí
-ċuġainn ċualadar mar a ḃeaḋ aḋarc á *ṡéideaḋ. Do
+ċuġainn ċualadar mar a ḃeaḋ aḋarc á ṡéideaḋ. Do
 ḃánuiġ ar Nící agus do ṗreab sé ina ṡeasaṁ.
 
 [l.152]: #
@@ -39,7 +39,7 @@ go ḃfuil an aḋarc á seideaḋ ?”
 “Fógra é sin go ḃfuil na Cráiḋmí ċuġainn,” arsa
 Nící. “Na daoine a ḃíonn ag obair ins na guirt agus ins
 na mianaiġ leasmuiġ de’n ċaṫair, filleann siad aḃaile
-ċoṁ luaṫ agus a ċloiseann siad an aḋarc san á *séideaḋ.”
+ċoṁ luaṫ agus a ċloiseann siad an aḋarc san á ṡéideaḋ.”
 
 “Is fearra ḋúinn an róbot a ċur i dreo caṫa,”
 arsa Máirtín, agus ṫug sé aġaiḋ ar an ndoras.
@@ -106,8 +106,8 @@ seisean. “Órduiġtear do luċt an róboit dul ina
 gcoinniḃ ċoṁ tapaiḋ agus is féidir dóiḃ, agus iad a
 ċosc sul a loitfiḋ siad na barraí.”
 
-“Éist leis sin,” arsa Seán go searḃúsaċ. “Órduiġ-
-tear dúinn dul ina gcoinniḃ ċoṁ tapaiḋ agus tá inár
+“Éist leis sin,” arsa Seán go searḃúsaċ. “Órduiġtear
+dúinn dul ina gcoinniḃ ċoṁ tapaiḋ agus tá inár
 gcosaiḃ. Náċ breáġ bog a ṫagann caint ċúċa. Ní
 ḟeicim aon duine aca féin ag gluaiseaċt i n-éinḟeaċt
 linn.”
@@ -324,8 +324,8 @@ iaḋ ná aon ápaí saoġalta.”
 Ḃí na Cráiḋmí ag brúġaḋ ina dtimċeall go tiuġ agus
 an róbot á luascaḋ anonn is anall ar a leaṫ-ċois aca.
 
-“Dá mbeaḋ gunna againn,” arsa Seán, “d’ḟéad-
-faimís an ceann san a ṁarḃú. Ar tugaḋ aon ġunna ḋuit,
+“Dá mbeaḋ gunna againn,” arsa Seán, “d’ḟéadfaimís
+an ceann san a ṁarḃú. Ar tugaḋ aon ġunna ḋuit,
 A Ṁáirtín?”
 
 “Níor tugaḋ,” arsa Máirtín.
@@ -485,7 +485,7 @@ agus ṫug bronntanaisí luaċṁara ḋóiḃ.
 “tar éis a ḃfuil curṫa ḋíḃ agaiḃ, agus is dóċa go ḃfuil
 fonn oraiḃ ḃúr scíṫ a leigint i nḃúr dtig féin.”
 
-Do ġaḃadar a mbuiḋeaċas leis i dtaoḃ na mbronn-
-tanas a ḃí tugṫa aige ḋóiḃ agus ċuadar ṫar n-ais ċun
+Do ġaḃadar a mbuiḋeaċas leis i dtaoḃ na mbronntanas
+a ḃí tugṫa aige ḋóiḃ agus ċuadar ṫar n-ais ċun
 a dtiġe. féin. Ċaiṫeadar béile bíḋ annsan agus ċuadar a
 ċodlaḋ ḋóiḃ féin.

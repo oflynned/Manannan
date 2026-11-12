@@ -5,7 +5,7 @@
 Ní go ró-ṁoċ a éiriġ Brian ná Nící ar maidin amáireaċ
 a ḃí ċuġainn, agus nuair a ċuadar isteaċ sa tseomra
 bíḋ ḃí an triúr fear suiḋte ċun búird agus iad ag iṫe a
-mbreicfeasta. Ḃí Seán agus Máirtín go-haeraċ, geal-
+mbreicfeasta. Ḃí Seán agus Máirtín go haeraċ, geal-
 ġáiriteaċ; gaċ aon scairt ġáiriḋe asta agus iad ag
 cur síos ar ċúrsaí an lae roimis sin agus ar an dtroid
 éaċtaċ a ḋeineadar leis na Cráiḋmí, aċ ní raiḃ focal as
@@ -44,11 +44,11 @@ sé ......”
 Ċuir an réaltóir isteaċ air agus ní ṫug uain dó an
 ċaint a ċríoċnú.
 
-“Is aoiḃinn an maidin →, buiḋeaċas le Dia, ar
+“Is aoiḃinn an maidin í, buiḋeaċas le Dia,” ar
 seisean. “Téiġimís amaċ ag spaisteóireaċt ins na
 páirceanna.”
 
-“Is maiṫ an cuiṁneaṁ é sin, arsa Máirtín.” “Tá
+“Is maiṫ an cuiṁneaṁ é sin,” arsa Máirtín. “Tá
 an crios aiḃléise scurṫa indiu, ó náċ baoġal do’n ċaṫair
 na Cráiḋmí feasta.”
 
@@ -220,8 +220,8 @@ arís agus do ḋúnas an doras go haireaċ im’ ḋiaiḋ.”
 “Cad a ḃí á ḋéanaṁ aige?”
 
 “Ḃí sé ag cur gléas éisteaċta agus gléas cian-
-raḋairc ins gaċ aon tseomra sa tiġ. Níl cor dá gcuir-
-fimíd dinn feasta ná feicfear, agus níl focal dá
+raḋairc ins gaċ aon tseomra sa tiġ. Níl cor dá gcuirfimíd
+dinn feasta ná feicfear, agus níl focal dá
 n-abróċaimíd ná cloisfear. Sin é an fáṫ nár ṁaiṫ liom
 an ċaint a ḋeinis-se ag an mbreicfeast ar maidin,”
 ar seisean le Seán.

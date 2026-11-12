@@ -37,7 +37,7 @@ as tiġ na ngealt.”
 “ B’ḟéidir gurab é ár leas glanaḋ linn as so sul a
 ḃfilliḋ é,” arsa Máirtín.
 
-“ Fanaimís leis,” arsa an réaltóir. “ Buaċaill mín-
+“Fanaimís leis,” arsa an réaltóir. “Buaċaill mín
 macánta is eaḋ é. Ní baoġal dúinn é.”
 
 “ Tá ocras orm-sa,” arsa Brian.

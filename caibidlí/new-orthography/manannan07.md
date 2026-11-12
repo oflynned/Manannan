@@ -146,7 +146,7 @@ isteach ortha. Do seoladh iad tré iomad póirsí fada
 leathana agus isteach i halla fairsing mar a raibh an tÁrd-
 Mháighistir ina shuidhe agus scata fear mar aon leis.
 Gruaig bhán nó gruaig bhuidhe a bhí ar gach aon fhear díobh,
-Fé mara bhí ar mhuintir Mhanannáin go Léir, aCh bhí mothal
+fé mar a bhí ar mhuintir Mhanannáin go léir, ach bhí mothal
 de ghruaig rua ar an Árd-Mháighistir, agus bhí órdlach
 ar aoirde aige de bhreis ar éinne eile aca. Fear breágh
 pearsanta ab eadh é. É go deigh-sheasaimh, maordha ann 
@@ -173,7 +173,7 @@ dtaobh na slighe a thángadar go Manannán, agus faid a
 bhí séag caint leo. bhí a dhá shúil ag dul tríotha fé mar a
 bheadh sé ag féachaint ar an rud a bhí ina n-aigne istigh.
 Chuireadh duine eile de sna-fearaibh ceist ortha ó am go
-ham, agus anois is arís labhradh an sean-ollamh ag míniú -
+ham, agus anois is arís labhradh an sean-ollamh ag míniú
 aon phuinnte ná féadfadh an chuid eile a thuiscint.
 
 
@@ -188,24 +188,24 @@ dhein abhfurmhór ná a gceann a chrothad agus gáire magamhail
 
 [l.82]: #
 
-a chur asta. Ba leir nár chreideadar focal de thuairischí
-an séaltsa.
+a chur asta. Ba léir nár chreideadar focal de thuairischí
+an réaltóra.
 
-“Ní chreideann siad nié,” ar seifean Le Máirtín.
+“Ní chreideann siad mé,” ar seisean le Máirtín.
 “Ní féidir cúrsaí na cruinne a mhíniú do sna daoine seo
-ich oiread agus a fhéadfá radharc a mhíniú do’n duine caoch.”
+ach oiread agus a fhéadfá radharc a mhíniú do’n duine caoch.”
 
-“Mo Léir dóighte gan an teanga ar mo toil agam,”
-arsa INáIráTÍIl “ go dtabharfainn léigheacht dóibh fé mar a
-thugaim do sna mic léighinn san OllscoiL, agus an fhírinne
+“Mo léir dóighte gan an teanga ar mo toil agam,”
+arsa Máirtín, “go dtabharfainn léigheacht dóibh fé mar a
+thugaim do sna mic léighinn san Ollscoil, agus an fhírinne
 a chur ar a súile dóibh.”
 Leis sin d’fhéach an réaltóir ar an sean-ollamh. Bhí
 gach aon bhraon alluis ar a éadan-san agus bhí a dhá láimh
 ar crith. Baineadh geit as an réaltóir. Buaileadh isteach
 ina aigne go raibh eagla ar an sean-duine, cé nár thuig sé
-cad é an chúis a bhí Leis. D’fhéach sé arís ar an Árd-Mháighistir. 
-Bhí seisean ag Labhairt go séimh Le Seán agus
-é Á cheistiú i dtaobh cúrsaí eiteallóireachta, ach ba léir
+cad é an chúis a bhí leis. D’fhéach sé arís ar an Árd-Mháighistir. 
+Bhí seisean ag labhairt go séimh le Seán agus
+é á cheistiú i dtaobh cúrsaí eiteallóireachta, ach ba léir
 do’n réaltóir an cruadhas agus an déine laistiar de’n
 chneastacht san. Thuig sé ina aigne gur dhuine é an tÁrd-
 Mháighistir nár scrupal leis iad a chur chun báis láithreach
@@ -221,7 +221,7 @@ eiteallóireachta a mhíniú i dteangain Mhanannáin, agus
 
 [l.83]: #
 ba mhinic é ag tochas a chinn agus é ad iarraidh cuimhneamh ar
-na focail a mhíneóchadh a scéaL do’n chuideachtain. Caithfear
+na focail a mhíneóchadh a scéal do’n chuideachtain. Caithfear
 a admháil gur dhein sé eascaine nó dhó fé n-a anál i
 gcaitheamh an cheistiúcháin.
 
@@ -279,16 +279,16 @@ istigh?” arsa Máirtín leis.
 “Cad a bheadh ar siubhal ach an tÁrd-Mháighistir ár
 gceistiú agus sinne ag tabhairt gach aon eolais dó?”
 
-“Bíodh fhios agat,á a dhuine, go rabhais ós comhair
-cúirte ó Chianaibh-cúirt a tugadh le chéiLe d’aon ghnó chun
-sinne a thriail. B’é an tárd-Mháighistir an breitheamh agus
+“Bíodh fhios agat, a dhuine, go rabhais ós comhair
+cúirte ó chianaibh—cúirt a tugadh le chéile d’aon ghnó chun
+sinne a thriail. B’é an tÁrd-Mháighistir an breitheamh agus
 an chuid eile aca an coiste dáréag, agus tá siad ag cur
 
 [l.85]: #
 
 
 is ag cúiteamh annsan istigh féachaint cioca saor-bhreith
-nó daor-bhreith a tabharsar-orainn.”
+nó daor-bhreith a tabharfar orainn.”
 
 “Agus cad é an choir atá aca le cur inár leith?”
 
@@ -322,10 +322,10 @@ go bhfeicidh sibh na saighdiúirí.”
 [l.86]: #
 
 Anonn leis an dtriúr eile chun na fuinneóige. Bhí
-díorma saighdiúir ina seasamh i nthaon líne amháin ós comhair
-an tige, éide gheaL-daithte ar gach duine aca, agus airm
+díorma saighdiúir ina seasamh i n-aon líne amháin ós comhair
+an tige, éide gheal-daithte ar gach duine aca, agus airm
 i láimh gach saighdiúra. agus oifigeach ina sheasamh ar a
 n-aghaidh amach. Ní dubhairt éinne de’n triúr focal ach
 do chas Seán a dhá ordóig síos chun na talmhan. Thuig an
-bheirt eile é chomh maith agusdá labhradh sé. Sé rud a bhí
+bheirt eile é chomh maith agus dá labhradh sé. Sé rud a bhí
 aige á rádh leo ná: “Tá deire linn.”

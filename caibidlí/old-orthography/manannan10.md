@@ -45,7 +45,7 @@ aċ pollann sé an ċré aṁail is ná beaḋ innte aċ ím.”
 
 “Súġann sé an ċré isteaċ tré sna píopáin seo,
 féaċ, agus steallann sé amaċ laistiar de arís í. An
-pPoll a ḋeineann sé sa talaṁ dúnann sé ina ḋiaiḋ é sa
+poll a ḋeineann sé sa talaṁ dúnann sé ina ḋiaiḋ é sa
 tsliġe is ná beaḋ ḟios ag éinne gur ġaiḃ sé an treo riaṁ.”
 
 “An té a ċuiṁniġ ar an inneall san ní miste fear

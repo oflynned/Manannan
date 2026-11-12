@@ -45,7 +45,7 @@ shlighe roimis?”
 
 “Súghann sé an chré isteach tré sna píopáin seo,
 féach, agus steallann sé amach laistiar de arís í. An
-pPoll a dheineann sé sa talamh dúnann sé ina dhiaidh é sa
+poll a dheineann sé sa talamh dúnann sé ina dhiaidh é sa
 tslighe is ná beadh fhios ag éinne gur ghaibh sé an treo riamh.”
 
 “An té a chuimhnigh ar an inneall san ní miste fear

@@ -270,7 +270,7 @@ agus gaċ aon láṁ aca seasca troiġ ar faid. Ḃí méireanna
 ar na láṁa agus gaċ aon ṁéar suas le sé troiġṫe ar
 faid, agus iad láidir téagarṫa d’á réir.
 
-“Heló, heló, heló,” arsa Séan. “Cá ḃfuairis ‘Luġ
+“Heló, heló, heló,” arsa Séan. “Cá ḃfuairis ‘Luġ
 Láṁ-ḟada?’”
 
 “Róbot atá ann,” arsa Máirtín. “Tá fir oibre
@@ -332,13 +332,13 @@ i láṫair sul a gcuirfinn ag gluaiseaċt é.”
 móra sul a seoltar ar an ḃḟairrgé iad.”
 
 “Tá buidéal uisce ṫall annsan,” arsa Máirtín.
--
+
 “Déanfaiḋ sin an gnó go breáġ,” arsa Seán.
 
 Rug sé ar an mbuidéal agus do ḃris i gcoinniḃ an
 ḟalla é.
 
-“Baistim ‘Luġ Láṁ-ḟada’ mar ainm ort,” ar
+“Baistim ‘Luġ Láṁ-ḟada’ mar ainm ort,” ar
 seisean.
 
 “Hurá,” arsa Brian agus Nící d’aon ġuṫ.
@@ -466,7 +466,7 @@ do ċas géag eile timċeall ar an gcois.
 deallraṁ aige leis na Cráiḋmí a ċonnac-sa an oiḋċe
 eile.”
 
-“Ní Cráiḋmí é sin,” arsa Nící, “ac árraċtaċ oċt-
+“Ní Cráiḋmí é sin,” arsa Nící, “aċ árraċtaċ oċt-
 gcosaċ.”
 
 “Pé rud é,” arsa Máirtín, “caiṫfimíd a ġreim a
