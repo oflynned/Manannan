@@ -351,6 +351,11 @@ def build_edition(
                     "}\n"
                 )
             )
+        elif report.insular_rs:
+            raise FileNotFoundError(
+                f"--insular-rs requires embedded Gaelic font files in {FONTS_DIR} "
+                f"(expected one of {[f[0] for f in font_cfg['files']]})"
+            )
 
     def fmt_nav_label(label: str) -> str:
         if report.insular_rs:
