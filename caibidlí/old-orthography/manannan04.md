@@ -55,8 +55,8 @@ Seán. “Ní ḋéanfaiḋ sé aon díoġḃáil dúinn sinn féin
 a ṫomaḋ i n-uisce an tsruṫáin.”
 
 “Is fearra ḋúinn malairt éadaiġ a ċur orainn
-féin, leis,” arsa Máirtín, “ar eagla go gceapfaḋ muin-
-tear na háite seo gur dream barbruiṫe salach sinn.”
+féin, leis,” arsa Máirtín, “ar eagla go gceapfaḋ muintear
+na háite seo gur dream barbruiṫe salach sinn.”
 
 Fuaireadar a gcuid bagáiste as an gcábán agus
 anonn leo ċun an tsruṫáin.

@@ -37,7 +37,7 @@ thar n-ais é an bóthar a tháinig sé.
 “ B’fhéidir gurab é ár leas glanadh linn as so sul a
 bhfillidh é,” arsa Máirtín.
 
-“ Fanaimís leis,” arsa an réaltóir. “ Buachaill mín-
+“Fanaimís leis,” arsa an réaltóir. “Buachaill mín
 macánta is eadh é. Ní baoghal dúinn é.”
 
 “ Tá ocras orm-sa,” arsa Brian.

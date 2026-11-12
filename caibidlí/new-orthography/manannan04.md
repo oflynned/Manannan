@@ -55,8 +55,8 @@ Seán. “Ní dhéanfaidh sé aon díoghbháil dúinn sinn féin
 a thomadh i n-uisce an tsrutháin.”
 
 “Is fearra dhúinn malairt éadaigh a chur orainn
-féin, leis,” arsa Máirtín, “ar eagla go gceapfadh muin-
-tear na háite seo gur dream barbruithe salach sinn.”
+féin, leis,” arsa Máirtín, “ar eagla go gceapfadh muintear
+na háite seo gur dream barbruithe salach sinn.”
 
 Fuaireadar a gcuid bagáiste as an gcábán agus
 anonn leo chun an tsrutháin.
