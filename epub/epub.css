@@ -1,3 +1,33 @@
-html {
-        font-family: "Lanchlo GC", serif;
+html,
+body {
+  line-height: 1.5;
+}
+
+h1 {
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  text-align: center;
+}
+
+p {
+  margin: 0.45em 0;
+  text-indent: 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #888;
+  width: 40%;
+  margin: 1.5em auto;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 1em auto;
+  width: 90%;
+}
+
+th,
+td {
+  padding: 0.25em 0.5em;
 }
