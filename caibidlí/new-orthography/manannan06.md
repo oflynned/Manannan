@@ -73,7 +73,7 @@ féidir feiscint tríd.”
 riamh?” arsa Brian agus árd-iongnadh air.
 
 “Ní dócha go bhfuil fhios aca an ghrian a bheith ann.
-Is é is dóchaige gur dóigh leo ná fuiL pláinéid ná reann
+Is é is dóchaige gur dóigh leo ná fuil pláinéid ná reann
 neimhe ar bith ann ach Manannán amháin.”
 
 Fuair sé amach ina dhiaidh san go raibh an ceart aige
@@ -104,17 +104,17 @@ agus seolann sé sinn sa treo is mian leis féin sinn do
 
 [l.71]: #
 
-Dhul. Féach an sud a tárla indiu nuair A theastuiGh uaim
+Dhul. Féach an sud a tárla indiu nuair a theastuigh uaim
 dul isteach i dtigh na haibhléise.”
 
-“Sin é an chéad uair a choisc sé sinn ar dhuL i n-aon
+“Sin é an chéad uair a choisc sé sinn ar dhul i n-aon
 áit,” arsa Seán.
 
 “Deirim leat,” arsa Máirtín, “gur bhain sé preab
 asam nuair a chuir sé a Lámh romham agus mé ag dul an
 doras isteach. Agus dá mhéid iarracht a dheineas ar a
 chur i n-iúl dó go bhfuil tuiscint fé Leith agam i gcúrsaí
-aibhléise is eadh is mó a choisc sé mé ar dhuL isteach.”
+aibhléise is eadh is mó a choisc sé mé ar dhul isteach.”
 
 “Is agat-sa is fearr atá teanga na ndaoine seo,”
 arsa an réaltóir le Brian. “Fiafruigh de Látós cad ’na
@@ -143,9 +143,9 @@ gan gaire a dheanamh nuair a chonnacadar an fear mór á
 árdach ims ina bhaclainn mar a árdóchadh sé páiste.
 Ghladhadar comhairle le chéile an oidhche sin.
 
-“Thá sch chomh maith againn é admháil,” arsa an réaltóir.
+“Tá sé chomh maith againn é admháil,” arsa an réaltóir.
 
-“Táimíd mar bpríosúnaigh annso. Níl a bhac orainn duL
+“Táimíd mar bpríosúnaigh annso. Níl a bhac orainn dul
 annso ná annsúd ar fuaid na cathrach, ach ní cheaduigheann
 Látós dúinn dul i n-aon áit ach san áit is roga leis féin.
 Is chun an phláinéid seo a fheiscint a thángamar, agus ní
@@ -165,7 +165,7 @@ le feiscint i súilibh gach duine aca.
 
 “A Bhriain,” arsa an réaltóir, “abair le Nící go
 gcaithfimíd dul amach fé’n dtuait amáireach. B’fheidir
-gur fearr a mhíneóchadh sé an scéaL do Látós ná mar is
+gur fearr a mhíneóchadh sé an scéal do Látós ná mar is
 féidir dúinne é dhéanamh.”
 
 Tháinig crith cos is lámh ar Nící nuair a thuig sé cad é
@@ -186,7 +186,7 @@ na leanbhaí ag súgradh an lá a thángadar. An oidhche
 áirithe seo bhí Brian ina sheomra codlata agus é Á ullmhú
 féin chun dul a chodladh. Oidhche bhreágh bhrothallach a bhí ann
 agus bhí fuinneóg an tseomra ar dian-leathadh aige. Bhí
-solas an lampa aibhléise mar a bheadh ciorcaL geal ar an
+solas an lampa aibhléise mar a bheadh ciorcal geal ar an
 séileáil. D’eiteal peidhleacán an fhuinneóg isteach, agus
 do chrom ar bhoghsíní a dhéanamh timcheall an lampa.
 Peidhleacán mór ioldathach a bhí ann, de shaghas ná feictear
@@ -217,7 +217,7 @@ Ní foláir nó chuir an garsún míle slighe dhe agus é
 ag leanamhaint an pheidhleacáin riamh is choidhche go dtí gur
 éirigh fé suas san aer agus gur imthigh uaidh ar fad. Do
 stad Brian annsan agus d’fhéach ina thimcheall. Bhí sé
-déanaCh go maith san oidhche fé’n am san, agus gan de
+déanach go maith san oidhche fé’n am san, agus gan de
 sholas ann ach an loinnir de lag-sholas phéarlach a bhíodh sa
 spéir i lár na hoidhche féin. Chas sé ar a sháil agus chonnaic
 soillse na cathrach i bhfad uaidh. Dubhairt sé leis féin ná
@@ -247,7 +247,7 @@ rómpa mar a dhéanfadh gléasanna móra cogaidh. Thuig
 sé go bhféadfaidís tighthe agus fallaí agus aon nidh eile a
 bheadh rómpa a threascairt chomh saoráideach agus a fhéadfadh
 sé féin satailt ar bhrobh féir. Aon fhéachaint amháin a
-thug fé ortha agus as go bráTh leis chomh dian agus a bhí
+thug fé ortha agus as go bráth leis chomh dian agus a bhí
 ina chroidhe. Do leanadar-san é agus siubhal nimhe fútha.
 Bhídhodar comh comhgarach san dó gur bhraith sé a mbréan-anál
 trom te ar a dhrom. Cheap sé ná raibh i ndán dó ach brúghadh

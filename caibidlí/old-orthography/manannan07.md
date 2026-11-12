@@ -146,7 +146,7 @@ isteaċ orṫa. Do seolaḋ iad tré iomad póirsí fada
 leaṫana agus isteaċ i halla fairsing mar a raiḃ an tÁrd-
 Ṁáiġistir ina ṡuiḋe agus scata fear mar aon leis.
 Gruaig ḃán nó gruaig ḃuiḋe a ḃí ar gaċ aon ḟear díoḃ,
-Fé mara ḃí ar ṁuintir Ṁanannáin go Léir, aĊ ḃí moṫal
+fé mar a ḃí ar ṁuintir Ṁanannáin go léir, aċ ḃí moṫal
 de ġruaig rua ar an Árd-Ṁáiġistir, agus ḃí órdlaċ
 ar aoirde aige de ḃreis ar éinne eile aca. Fear breáġ
 pearsanta ab eaḋ é. É go deiġ-ṡeasaiṁ, maorḋa ann 
@@ -173,7 +173,7 @@ dtaoḃ na sliġe a ṫángadar go Manannán, agus faid a
 ḃí séag caint leo. ḃí a ḋá ṡúil ag dul tríoṫa fé mar a
 ḃeaḋ sé ag féaċaint ar an rud a ḃí ina n-aigne istiġ.
 Ċuireaḋ duine eile de sna-fearaiḃ ceist orṫa ó am go
-ham, agus anois is arís laḃraḋ an sean-ollaṁ ag míniú -
+ham, agus anois is arís laḃraḋ an sean-ollaṁ ag míniú
 aon ṗuinnte ná féadfaḋ an ċuid eile a ṫuiscint.
 
 
@@ -188,24 +188,24 @@ aċ do ḋein a ṫuille aca é d’inḟiúċaḋ go cruinn. Sé
 
 [l.82]: #
 
-a ċur asta. Ba leir nár ċreideadar focal de ṫuairisċí
-an séaltsa.
+a ċur asta. Ba léir nár ċreideadar focal de ṫuairisċí
+an réaltóra.
 
-“Ní ċreideann siad nié,” ar seifean Le Máirtín.
+“Ní ċreideann siad mé,” ar seisean le Máirtín.
 “Ní féidir cúrsaí na cruinne a ṁíniú do sna daoine seo
-iċ oiread agus a ḟéadfá raḋarc a ṁíniú do’n duine caoċ.”
+aċ oiread agus a ḟéadfá raḋarc a ṁíniú do’n duine caoċ.”
 
-“Mo Léir dóiġte gan an teanga ar mo toil agam,”
-arsa INáIráTÍIl “ go dtaḃarfainn léiġeaċt dóiḃ fé mar a
-ṫugaim do sna mic léiġinn san OllscoiL, agus an ḟírinne
+“Mo léir dóiġte gan an teanga ar mo toil agam,”
+arsa Máirtín, “go dtaḃarfainn léiġeaċt dóiḃ fé mar a
+ṫugaim do sna mic léiġinn san Ollscoil, agus an ḟírinne
 a ċur ar a súile dóiḃ.”
 Leis sin d’ḟéaċ an réaltóir ar an sean-ollaṁ. Ḃí
 gaċ aon ḃraon alluis ar a éadan-san agus ḃí a ḋá láiṁ
 ar criṫ. Baineaḋ geit as an réaltóir. Buaileaḋ isteaċ
 ina aigne go raiḃ eagla ar an sean-duine, cé nár ṫuig sé
-cad é an ċúis a ḃí Leis. D’ḟéaċ sé arís ar an Árd-Ṁáiġistir. 
-Ḃí seisean ag Laḃairt go séiṁ Le Seán agus
-é Á ċeistiú i dtaoḃ cúrsaí eiteallóireaċta, aċ ba léir
+cad é an ċúis a ḃí leis. D’ḟéaċ sé arís ar an Árd-Ṁáiġistir. 
+Ḃí seisean ag laḃairt go séiṁ le Seán agus
+é á ċeistiú i dtaoḃ cúrsaí eiteallóireaċta, aċ ba léir
 do’n réaltóir an cruaḋas agus an déine laistiar de’n
 ċneastaċt san. Ṫuig sé ina aigne gur ḋuine é an tÁrd-
 Ṁáiġistir nár scrupal leis iad a ċur ċun báis láiṫreaċ
@@ -221,7 +221,7 @@ eiteallóireaċta a ṁíniú i dteangain Ṁanannáin, agus
 
 [l.83]: #
 ba ṁinic é ag toċas a ċinn agus é ad iarraiḋ cuiṁneaṁ ar
-na focail a ṁíneóċaḋ a scéaL do’n ċuideaċtain. Caiṫfear
+na focail a ṁíneóċaḋ a scéal do’n ċuideaċtain. Caiṫfear
 a adṁáil gur ḋein sé eascaine nó ḋó fé n-a anál i
 gcaiṫeaṁ an ċeistiúċáin.
 
@@ -279,16 +279,16 @@ istiġ?” arsa Máirtín leis.
 “Cad a ḃeaḋ ar siuḃal aċ an tÁrd-Ṁáiġistir ár
 gceistiú agus sinne ag taḃairt gaċ aon eolais dó?”
 
-“Bíoḋ ḟios agat,á a ḋuine, go raḃais ós coṁair
-cúirte ó Ċianaiḃ-cúirt a tugaḋ le ċéiLe d’aon ġnó ċun
-sinne a ṫriail. B’é an tárd-Ṁáiġistir an breiṫeaṁ agus
+“Bíoḋ ḟios agat, a ḋuine, go raḃais ós coṁair
+cúirte ó ċianaiḃ—cúirt a tugaḋ le ċéile d’aon ġnó ċun
+sinne a ṫriail. B’é an tÁrd-Ṁáiġistir an breiṫeaṁ agus
 an ċuid eile aca an coiste dáréag, agus tá siad ag cur
 
 [l.85]: #
 
 
 is ag cúiteaṁ annsan istiġ féaċaint cioca saor-ḃreiṫ
-nó daor-ḃreiṫ a taḃarsar-orainn.”
+nó daor-ḃreiṫ a taḃarfar orainn.”
 
 “Agus cad é an ċoir atá aca le cur inár leiṫ?”
 
@@ -322,10 +322,10 @@ go ḃfeiciḋ siḃ na saiġdiúirí.”
 [l.86]: #
 
 Anonn leis an dtriúr eile ċun na fuinneóige. Ḃí
-díorma saiġdiúir ina seasaṁ i nṫaon líne aṁáin ós coṁair
-an tige, éide ġeaL-daiṫte ar gaċ duine aca, agus airm
+díorma saiġdiúir ina seasaṁ i n-aon líne aṁáin ós coṁair
+an tige, éide ġeal-daiṫte ar gaċ duine aca, agus airm
 i láiṁ gaċ saiġdiúra. agus oifigeaċ ina ṡeasaṁ ar a
 n-aġaiḋ amaċ. Ní duḃairt éinne de’n triúr focal aċ
 do ċas Seán a ḋá ordóig síos ċun na talṁan. Ṫuig an
-ḃeirt eile é ċoṁ maiṫ agusdá laḃraḋ sé. Sé rud a ḃí
+ḃeirt eile é ċoṁ maiṫ agus dá laḃraḋ sé. Sé rud a ḃí
 aige á ráḋ leo ná: “Tá deire linn.”

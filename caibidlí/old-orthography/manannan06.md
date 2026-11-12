@@ -73,7 +73,7 @@ féidir feiscint tríd.”
 riaṁ?” arsa Brian agus árd-iongnaḋ air.
 
 “Ní dóċa go ḃfuil ḟios aca an ġrian a ḃeiṫ ann.
-Is é is dóċaige gur dóiġ leo ná fuiL pláinéid ná reann
+Is é is dóċaige gur dóiġ leo ná fuil pláinéid ná reann
 neiṁe ar biṫ ann aċ Manannán aṁáin.”
 
 Fuair sé amaċ ina ḋiaiḋ san go raiḃ an ceart aige
@@ -104,17 +104,17 @@ agus seolann sé sinn sa treo is mian leis féin sinn do
 
 [l.71]: #
 
-Ḋul. Féaċ an sud a tárla indiu nuair A ṫeastuiĠ uaim
+Ḋul. Féaċ an sud a tárla indiu nuair a ṫeastuiġ uaim
 dul isteaċ i dtiġ na haiḃléise.”
 
-“Sin é an ċéad uair a ċoisc sé sinn ar ḋuL i n-aon
+“Sin é an ċéad uair a ċoisc sé sinn ar ḋul i n-aon
 áit,” arsa Seán.
 
 “Deirim leat,” arsa Máirtín, “gur ḃain sé preab
 asam nuair a ċuir sé a Láṁ roṁam agus mé ag dul an
 doras isteaċ. Agus dá ṁéid iarraċt a ḋeineas ar a
 ċur i n-iúl dó go ḃfuil tuiscint fé Leiṫ agam i gcúrsaí
-aiḃléise is eaḋ is mó a ċoisc sé mé ar ḋuL isteaċ.”
+aiḃléise is eaḋ is mó a ċoisc sé mé ar ḋul isteaċ.”
 
 “Is agat-sa is fearr atá teanga na ndaoine seo,”
 arsa an réaltóir le Brian. “Fiafruiġ de Látós cad ’na
@@ -143,9 +143,9 @@ gan gaire a ḋeanaṁ nuair a ċonnacadar an fear mór á
 árdaċ ims ina ḃaclainn mar a árdóċaḋ sé páiste.
 Ġlaḋadar coṁairle le ċéile an oiḋċe sin.
 
-“Ṫá sċ ċoṁ maiṫ againn é adṁáil,” arsa an réaltóir.
+“Tá sé ċoṁ maiṫ againn é adṁáil,” arsa an réaltóir.
 
-“Táimíd mar bpríosúnaiġ annso. Níl a ḃac orainn duL
+“Táimíd mar bpríosúnaiġ annso. Níl a ḃac orainn dul
 annso ná annsúd ar fuaid na caṫraċ, aċ ní ċeaduiġeann
 Látós dúinn dul i n-aon áit aċ san áit is roga leis féin.
 Is ċun an ṗláinéid seo a ḟeiscint a ṫángamar, agus ní
@@ -165,7 +165,7 @@ le feiscint i súiliḃ gaċ duine aca.
 
 “A Ḃriain,” arsa an réaltóir, “abair le Nící go
 gcaiṫfimíd dul amaċ fé’n dtuait amáireaċ. B’ḟeidir
-gur fearr a ṁíneóċaḋ sé an scéaL do Látós ná mar is
+gur fearr a ṁíneóċaḋ sé an scéal do Látós ná mar is
 féidir dúinne é ḋéanaṁ.”
 
 Ṫáinig criṫ cos is láṁ ar Nící nuair a ṫuig sé cad é
@@ -186,7 +186,7 @@ na leanḃaí ag súgraḋ an lá a ṫángadar. An oiḋċe
 áiriṫe seo ḃí Brian ina ṡeomra codlata agus é Á ullṁú
 féin ċun dul a ċodlaḋ. Oiḋċe ḃreáġ ḃroṫallaċ a ḃí ann
 agus ḃí fuinneóg an tseomra ar dian-leaṫaḋ aige. Ḃí
-solas an lampa aiḃléise mar a ḃeaḋ ciorcaL geal ar an
+solas an lampa aiḃléise mar a ḃeaḋ ciorcal geal ar an
 séileáil. D’eiteal peiḋleacán an ḟuinneóg isteaċ, agus
 do ċrom ar ḃoġsíní a ḋéanaṁ timċeall an lampa.
 Peiḋleacán mór ioldaṫaċ a ḃí ann, de ṡaġas ná feictear
@@ -217,7 +217,7 @@ Ní foláir nó ċuir an garsún míle sliġe ḋe agus é
 ag leanaṁaint an ṗeiḋleacáin riaṁ is ċoiḋċe go dtí gur
 éiriġ fé suas san aer agus gur imṫiġ uaiḋ ar fad. Do
 stad Brian annsan agus d’ḟéaċ ina ṫimċeall. Ḃí sé
-déanaĊ go maiṫ san oiḋċe fé’n am san, agus gan de
+déanaċ go maiṫ san oiḋċe fé’n am san, agus gan de
 ṡolas ann aċ an loinnir de lag-ṡolas ṗéarlaċ a ḃíoḋ sa
 spéir i lár na hoiḋċe féin. Ċas sé ar a ṡáil agus ċonnaic
 soillse na caṫraċ i ḃfad uaiḋ. Duḃairt sé leis féin ná
@@ -247,7 +247,7 @@ rómpa mar a ḋéanfaḋ gléasanna móra cogaiḋ. Ṫuig
 sé go ḃféadfaidís tiġṫe agus fallaí agus aon niḋ eile a
 ḃeaḋ rómpa a ṫreascairt ċoṁ saoráideaċ agus a ḟéadfaḋ
 sé féin satailt ar ḃroḃ féir. Aon ḟéaċaint aṁáin a
-ṫug fé orṫa agus as go bráṪ leis ċoṁ dian agus a ḃí
+ṫug fé orṫa agus as go bráṫ leis ċoṁ dian agus a ḃí
 ina ċroiḋe. Do leanadar-san é agus siuḃal niṁe fúṫa.
 Ḃíḋodar coṁ coṁgaraċ san dó gur ḃraiṫ sé a mbréan-anál
 trom te ar a ḋrom. Ċeap sé ná raiḃ i ndán dó aċ brúġaḋ
