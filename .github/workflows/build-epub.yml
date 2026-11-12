@@ -28,8 +28,9 @@ jobs:
         run: |
           mkdir -p epub/fonts
           if curl -fsSL --retry 3 --connect-timeout 15 https://www.gaelchlo.com/bungc.zip -o /tmp/bungc.zip; then
-            unzip -o -q /tmp/bungc.zip -d epub/fonts
+            unzip -j -o -q /tmp/bungc.zip -d epub/fonts
             rm -f /tmp/bungc.zip
+            test -f epub/fonts/bungc.otf
             ls -la epub/fonts
           else
             echo "::warning::Could not download bungc.zip from gaelchlo.com; falling back to system serif."
@@ -49,14 +50,18 @@ jobs:
       - name: Validate built EPUB archives
         run: |
           python3 - <<'PY'
-          import glob, zipfile, xml.etree.ElementTree as ET
+          import glob, os, zipfile, xml.etree.ElementTree as ET
           epubs = sorted(glob.glob("epub/*.epub"))
           assert epubs, "No EPUB files built"
+          has_font = os.path.isfile("epub/fonts/bungc.otf")
           for epub in epubs:
               with zipfile.ZipFile(epub) as zf:
                   infos = zf.infolist()
+                  names = {info.filename for info in infos}
                   assert infos[0].filename == "mimetype" and infos[0].compress_type == zipfile.ZIP_STORED
                   assert zf.read("mimetype") == b"application/epub+zip"
+                  if has_font and "old" in os.path.basename(epub):
+                      assert "OEBPS/fonts/bungc.otf" in names, f"Missing embedded font in {epub}"
                   for info in infos:
                       if info.filename.endswith((".xml", ".xhtml", ".opf", ".ncx")):
                           ET.fromstring(zf.read(info.filename))
