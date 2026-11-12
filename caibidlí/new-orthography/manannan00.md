@@ -16,11 +16,11 @@ OIFIG AN tSOLÁTHAIR
 
 Baile Átha Cliath
 
-#    
+---
 
 Foillsíodh den chéad uair, 1940.
 
-#     
+---
 
 Toirbhirim an leabhar so do BHRIAN
 mar go dtug sé cabhair agus comhairle

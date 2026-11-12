@@ -16,11 +16,11 @@ OIFIG AN tSOLÁṪAIR
 
 Baile Áṫa Cliaṫ
 
-#    
+---
 
 Foillsiġeaḋ de’n ċéad uair, 1940.
 
-#     
+---
 
 Toirḃirim an leaḃar so do ḂRIAN
 mar go dtug sé caḃair agus coṁairle
