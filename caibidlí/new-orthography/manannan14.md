@@ -5,7 +5,7 @@
 Ní go ró-mhoch a éirigh Brian ná Nící ar maidin amáireach
 a bhí chughainn, agus nuair a chuadar isteach sa tseomra
 bídh bhí an triúr fear suidhte chun búird agus iad ag ithe a
-mbreicfeasta. Bhí Seán agus Máirtín go-haerach, geal-
+mbreicfeasta. Bhí Seán agus Máirtín go haerach, geal-
 gháiriteach; gach aon scairt gháiridhe asta agus iad ag
 cur síos ar chúrsaí an lae roimis sin agus ar an dtroid
 éachtach a dheineadar leis na Cráidhmí, ach ní raibh focal as
@@ -44,11 +44,11 @@ sé ......”
 Chuir an réaltóir isteach air agus ní thug uain dó an
 chaint a chríochnú.
 
-“Is aoibhinn an maidin →, buidheachas le Dia, ar
+“Is aoibhinn an maidin í, buidheachas le Dia,” ar
 seisean. “Téighimís amach ag spaisteóireacht ins na
 páirceanna.”
 
-“Is maith an cuimhneamh é sin, arsa Máirtín.” “Tá
+“Is maith an cuimhneamh é sin,” arsa Máirtín. “Tá
 an crios aibhléise scurtha indiu, ó nách baoghal do’n chathair
 na Cráidhmí feasta.”
 
@@ -220,8 +220,8 @@ arís agus do dhúnas an doras go haireach im’ dhiaidh.”
 “Cad a bhí á dhéanamh aige?”
 
 “Bhí sé ag cur gléas éisteachta agus gléas cian-
-radhairc ins gach aon tseomra sa tigh. Níl cor dá gcuir-
-fimíd dinn feasta ná feicfear, agus níl focal dá
+radhairc ins gach aon tseomra sa tigh. Níl cor dá gcuirfimíd
+dinn feasta ná feicfear, agus níl focal dá
 n-abróchaimíd ná cloisfear. Sin é an fáth nár mhaith liom
 an chaint a dheinis-se ag an mbreicfeast ar maidin,”
 ar seisean le Seán.
