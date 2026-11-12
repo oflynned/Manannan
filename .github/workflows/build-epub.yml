@@ -44,7 +44,7 @@ jobs:
           if [ -f fonts/bungc.otf ]; then
             make kindle
           else
-            echo "Skipping Manannán-old-kindle.epub because Bunchló GC font was not fetched."
+            echo "Skipping Manannán-Traditional-Kindle.epub because Bunchló GC font was not fetched."
           fi
 
       - name: Validate built EPUB archives
@@ -60,7 +60,7 @@ jobs:
                   names = {info.filename for info in infos}
                   assert infos[0].filename == "mimetype" and infos[0].compress_type == zipfile.ZIP_STORED
                   assert zf.read("mimetype") == b"application/epub+zip"
-                  if has_font and "old" in os.path.basename(epub):
+                  if has_font and "Traditional" in os.path.basename(epub):
                       assert "OEBPS/fonts/bungc.otf" in names, f"Missing embedded font in {epub}"
                   for info in infos:
                       if info.filename.endswith((".xml", ".xhtml", ".opf", ".ncx")):
@@ -74,10 +74,18 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           SHORT_SHA="${GITHUB_SHA::7}"
-          NOTES="Automated EPUB 3 builds from \`main\` (${SHORT_SHA})."
+          NOTES=$(printf '%s\n' \
+            "Automated EPUB 3 builds from \`main\` (\`${SHORT_SHA}\`)." \
+            "" \
+            "- **\`Manannán-Traditional.epub\`**: 1940 original orthography (*seanlitriú*) with embedded Bunchló GC (*Cló Gaelach*) and OpenType \`ss01\` (recommended for Apple Books, Kobo, Calibre, Thorium)." \
+            "- **\`Manannán-Traditional-Kindle.epub\`**: Same traditional edition with insular \`ɼ\`/\`ſ\`/\`ẛ\` glyphs baked directly for Kindle (workaround for Send-to-Kindle / KFX stripping \`font-feature-settings\`; keep **Publisher Font** enabled)." \
+            "- **\`Manannán-Romanised.epub\`**: Roman-script orthography (\`ḃ\` → \`bh\`, etc.) using your reader's default serif font.")
           git tag -f latest "${GITHUB_SHA}"
           git push -f origin refs/tags/latest
           if gh release view latest >/dev/null 2>&1; then
+            for stale in Manannán-old.epub Manannán-old-kindle.epub Manannán-new.epub Manannán-Modern.epub; do
+              gh release delete-asset latest "${stale}" -y >/dev/null 2>&1 || true
+            done
             gh release edit latest --title "Manannán (Latest)" --notes "${NOTES}"
             gh release upload latest epub/*.epub --clobber
           else
