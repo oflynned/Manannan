@@ -39,16 +39,16 @@ GAELIC_FONT_FAMILIES = {
 }
 
 EDITIONS = {
-    "old": {
+    "traditional": {
         "src_dir": CAIBIDLI_DIR / "old-orthography",
-        "out_file": EPUB_DIR / "Manannán-old.epub",
+        "out_file": EPUB_DIR / "Manannán-Traditional.epub",
         "title": "Manannán (Seanlitriú)",
         "author": "Máiréad Ní Ġráda",
         "embed_gaelic_font": True,
     },
-    "new": {
+    "romanised": {
         "src_dir": CAIBIDLI_DIR / "new-orthography",
-        "out_file": EPUB_DIR / "Manannán-new.epub",
+        "out_file": EPUB_DIR / "Manannán-Romanised.epub",
         "title": "Manannán (Litriú Nua)",
         "author": "Máiréad Ní Ghráda",
         "embed_gaelic_font": False,
@@ -520,7 +520,7 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument(
         "--edition",
-        choices=["old", "new", "both"],
+        choices=["traditional", "romanised", "both"],
         default="both",
         help="Which orthography edition(s) to build (default: both)",
     )
@@ -528,12 +528,12 @@ def main() -> int:
         "--gaelic-font",
         choices=sorted(GAELIC_FONT_FAMILIES),
         default="bunchlo",
-        help="Cló Gaelach font family to embed in the old edition (default: bunchlo)",
+        help="Cló Gaelach font family to embed in the traditional edition (default: bunchlo)",
     )
     ap.add_argument(
         "--insular-rs",
         action="store_true",
-        help="Bake U+027C/U+017F/U+1E9B insular r/s/ṡ glyphs into old-edition XHTML for readers (e.g. Kindle KFX) that ignore OpenType ss01",
+        help="Bake U+027C/U+017F/U+1E9B insular r/s/ṡ glyphs into traditional-edition XHTML for readers (e.g. Kindle KFX) that ignore OpenType ss01",
     )
     ap.add_argument(
         "--out",
@@ -543,7 +543,7 @@ def main() -> int:
     )
     args = ap.parse_args()
 
-    targets = ["old", "new"] if args.edition == "both" else [args.edition]
+    targets = ["traditional", "romanised"] if args.edition == "both" else [args.edition]
     if args.out and len(targets) != 1:
         ap.error("--out requires a single --edition target")
     for key in targets:

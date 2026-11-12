@@ -49,11 +49,11 @@ Chapter PDFs live under `caibidlí/` (e.g. `manannan01.pdf`). Conversion scripts
 
 ### epub
 
-Build EPUB 3 editions (`epub/Manannán-old.epub` and `epub/Manannán-new.epub`) locally using [`epub/build_epub.py`](epub/build_epub.py):
+Build EPUB 3 editions (`epub/Manannán-Traditional.epub` and `epub/Manannán-Romanised.epub`) locally using [`epub/build_epub.py`](epub/build_epub.py):
 
 ```bash
 cd epub && make
 ```
 
-- **Cló Gaelach font (optional, recommended for `old`)**: Download **Bunchló GC** (`bungc.zip`) from [gaelchlo.com](https://www.gaelchlo.com/) and extract `bungc.otf`, `bunigc.otf`, and `buntgc.otf` into `epub/fonts/` (gitignored due to font redistribution licensing). When present, `Manannán-old.epub` embeds Bunchló GC with OpenType `ss01` enabled for traditional insular `r`/`s`/`ṡ` glyphs; otherwise it falls back to the e-reader's serif font.
-- Build targets: `make` (`Manannán-old.epub` and `Manannán-new.epub`), `make kindle` (builds `Manannán-old-kindle.epub` with `ɼ`/`ſ`/`ẛ` glyphs baked directly for Kindle KFX, which strips CSS `font-feature-settings`), `make clean`, or `python3 epub/build_epub.py --edition old|new`.
+- **Cló Gaelach font (optional, recommended for `Traditional`)**: Download **Bunchló GC** (`bungc.zip`) from [gaelchlo.com](https://www.gaelchlo.com/) and extract `bungc.otf`, `bunigc.otf`, and `buntgc.otf` into `epub/fonts/` (gitignored due to font redistribution licensing). When present, `Manannán-Traditional.epub` embeds Bunchló GC with OpenType `ss01` enabled for traditional insular `r`/`s`/`ṡ` glyphs; otherwise it falls back to the e-reader's serif font.
+- Build targets: `make` (`Manannán-Traditional.epub` and `Manannán-Romanised.epub`), `make kindle` (builds `Manannán-Traditional-Kindle.epub` with `ɼ`/`ſ`/`ẛ` glyphs baked directly for Kindle KFX, which strips CSS `font-feature-settings`), `make clean`, or `python3 epub/build_epub.py --edition traditional|romanised`.

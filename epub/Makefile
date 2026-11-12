@@ -4,18 +4,18 @@ FONTS := $(wildcard fonts/*.otf fonts/*.ttf)
 
 .PHONY: all kindle clean
 
-all: Manannán-old.epub Manannán-new.epub
+all: Manannán-Traditional.epub Manannán-Romanised.epub
 
-kindle: Manannán-old-kindle.epub
+kindle: Manannán-Traditional-Kindle.epub
 
-Manannán-old.epub: build_epub.py epub.css ../assets/manannan.jpg $(OLD_CHAPTERS) $(FONTS)
-	python3 build_epub.py --edition old
+Manannán-Traditional.epub: build_epub.py epub.css ../assets/manannan.jpg $(OLD_CHAPTERS) $(FONTS)
+	python3 build_epub.py --edition traditional
 
-Manannán-old-kindle.epub: build_epub.py epub.css ../assets/manannan.jpg $(OLD_CHAPTERS) $(FONTS)
-	python3 build_epub.py --edition old --insular-rs --out Manannán-old-kindle.epub
+Manannán-Traditional-Kindle.epub: build_epub.py epub.css ../assets/manannan.jpg $(OLD_CHAPTERS) $(FONTS)
+	python3 build_epub.py --edition traditional --insular-rs --out Manannán-Traditional-Kindle.epub
 
-Manannán-new.epub: build_epub.py epub.css ../assets/manannan.jpg $(NEW_CHAPTERS)
-	python3 build_epub.py --edition new
+Manannán-Romanised.epub: build_epub.py epub.css ../assets/manannan.jpg $(NEW_CHAPTERS)
+	python3 build_epub.py --edition romanised
 
 clean:
-	rm -f Manannán-old.epub Manannán-old-kindle.epub Manannán-new.epub
+	rm -f Manannán-*.epub
